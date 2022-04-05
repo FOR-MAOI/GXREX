@@ -28,4 +28,4 @@ Cara Menjalankan Scripts
 
 cd GXREX
 
-python run.py
+python instagram.py
