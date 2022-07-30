@@ -22,7 +22,7 @@ pip install requests
 
 pip install futures
 
-git clone https://github.com/Mr404NotFoundd/GXREX
+git clone https://github.com/FOR-MAOI/GXREX
 
 Cara Menjalankan Scripts
 
